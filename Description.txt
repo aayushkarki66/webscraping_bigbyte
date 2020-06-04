@@ -1,0 +1,5 @@
+This project is the result of 15 days online classes of Basic Python Training where we were able to learn all the basics of python. 
+Thus as a completion of the training we get a chance to perform a certain mini-project in which we get a chance to be familiar with various scrapping modules. 
+This is a webscraping project where I scrap some top 50 laptops with their brand name, short description and 
+prices from one renown online shopping sites of Nepal called Bigbyte. 
+Those scrap datas were kept in a csv file through which we can even extract them in excel files. 
